@@ -5,7 +5,7 @@ A couple of scripts to help export from Google Chrome 63 password manager to [pa
 ## Instructions
 
 1. Follow the instructions in the comments of `chrome-export.js`
-2. Copy the string printed to the console into a file called `passwords` in the root of this project
+2. Copy the string printed to the console into a file called `passwords.json` in the root of this project
 3. Run `password-process.js` using Node.js. `pass` must be installed, configured and in your path.
 
 ## Credits
